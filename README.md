@@ -117,7 +117,7 @@ ___
 
 ### I'm a data scientist, software Engineer. data and technology passionate person, Artificial Intelligence enthusiast 
 
-> My Website [Click Here](https://rekidiangdata-s.github.io/kiesediangebeni/)
+> My Website [Click Here](https://kiese.tech)
 
 > Social Network
 
@@ -133,6 +133,6 @@ ___
 
 [1]: http://www.facebook.com/reagan.kiese.37
 [2]: https://twitter.com/ReaganKiese
-[3]: https://github.com/RekidiangData-S
+[3]: https://github.com/Rekidiang2
 [4]: https://medium.com/@rkddatas
 
