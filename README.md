@@ -114,10 +114,17 @@ In healthcare field diagnose a problem early offer more chance for traitement an
 
 ## 6. About Me
 ___
-<h4 style="color:blue;text-align:center;">My name is Kiese Diangebeni Reagan</h4>
+<h3 style="color:blue;text-align:center;">My name is Kiese Diangebeni Reagan</h3>
 <h5>I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.</h5>
-<h3>Let get in touch<a href="https://kiese.tech">www.kiese.tech</a></h3>
-<a href="https://kiese.tech"><img src="https://i.imgur.com/5BWvIrF.png"></a>
+<h3>Let get in touch : <a href="https://kiese.tech">www.kiese.tech</a></h3>
+<a href="https://github.com/Rekidiang2"><img src="https://i.imgur.com/5BWvIrF.png"></a>
+<a href="https://www.linkedin.com/in/kiese-diangebeni-reagan-82992216a/"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/linkedin-logo-2430.png"></a>
+<a href="https://twitter.com/ReaganKiese"><img src="https://i.imgur.com/YCdR3o9.png"></a>
+<a href="http://www.facebook.com/reagan.kiese.37"><img src=" https://i.imgur.com/oFsAcMx.png"></a>
+<a href="https://medium.com/@rkddatas"><img src="https://i.imgur.com/UA7Oh6z.png"></a>
+
+
+----
 ### My name is Kiese Diangebeni Reagan, 
 #### I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.
 
