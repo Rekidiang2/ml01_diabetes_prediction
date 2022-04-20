@@ -117,20 +117,25 @@ ___
 
 ### My name is Kiese Diangebeni Reagan, 
 #### I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.
-<a href="https://twitter.com/ReaganKiese">Twitter</a>
+
+Let get in touch : 
 [www.kiese.tech](https://kiese.tech)
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
 [![alt text][4.1]][4]
+[![alt text][5.1]][5]
 
-[1.1]: https://i.imgur.com/oFsAcMx.png (facebook icon with padding)
-[2.1]: https://i.imgur.com/YCdR3o9.png (twitter icon with padding)
-[3.1]: https://i.imgur.com/5BWvIrF.png (github icon with padding)
-[4.1]: https://i.imgur.com/UA7Oh6z.png (medium icon with padding)
+[1.1]: https://i.imgur.com/5BWvIrF.png (github icon with padding)
+[2.1]: https://i.imgur.com/rwYRqn6.png (linkedin icon with padding)
+[3.1]: https://i.imgur.com/YCdR3o9.png (twitter icon with padding)
+[4.1]: https://i.imgur.com/oFsAcMx.png (facebook icon with padding)
+[5.1]: https://i.imgur.com/UA7Oh6z.png (medium icon with padding)
 
-[1]: http://www.facebook.com/reagan.kiese.37
-[2]: https://twitter.com/ReaganKiese
-[3]: https://github.com/Rekidiang2
-[4]: https://medium.com/@rkddatas
+
+[1]: https://github.com/Rekidiang2
+[2]: https://www.linkedin.com/in/kiese-diangebeni-reagan-82992216a/
+[3]: https://twitter.com/ReaganKiese
+[4]: http://www.facebook.com/reagan.kiese.37
+[5]: https://medium.com/@rkddatas
 
