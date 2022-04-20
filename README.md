@@ -104,17 +104,11 @@ In healthcare field diagnose a problem early offer more chance for traitement an
 
 ## 4. Deployment (Real world Use)
 
-+ [WebApp with Streamlit]()
-+ [WebApp with Flask]()
-
-
-## 5. To improve
-
-+ put link for real world app after deployment in heroku
++ [Pre-diabetique prediction (WebApp with streamlit)](https://share.streamlit.io/rekidiang2/st01_diabetes_prediction/main/app.py)
++ [Pre-diabetique stage prediction (WebApp with flask)]()
 
 
 ___
-
 ## My name is Kiese Diangebeni Reagan
 #### I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.
 Let get in touch : <a href="https://kiese.tech">www.kiese.tech</a>
@@ -122,5 +116,5 @@ Let get in touch : <a href="https://kiese.tech">www.kiese.tech</a>
 <a href="https://www.linkedin.com/in/kiese-diangebeni-reagan-82992216a/"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/linkedin-logo.png"></a>
 <a href="https://twitter.com/ReaganKiese"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/twitter-logo.png"></a>
 <a href="http://www.facebook.com/reagan.kiese.37"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/facebook-logo.png"></a>
-<a href="https://medium.com/@rkddatas"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/medium-logo.png"></a>                                                                             
+<a href="https://medium.com/@rkddatas"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/medium-logo.png"></a>                                    
 ----
