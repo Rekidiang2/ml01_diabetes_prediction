@@ -117,7 +117,7 @@ ___
 <h4 style="color:blue;text-align:center;">My name is Kiese Diangebeni Reagan</h4>
 <h5>I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.</h5>
 <h3>Let get in touch<a href="https://kiese.tech">www.kiese.tech</a></h3>
-<a href="https://kiese.tech">,img src=" https://i.imgur.com/5BWvIrF.png"></a>
+<a href="https://kiese.tech"><img src="https://i.imgur.com/5BWvIrF.png"></a>
 ### My name is Kiese Diangebeni Reagan, 
 #### I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.
 
