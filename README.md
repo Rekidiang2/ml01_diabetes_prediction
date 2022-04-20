@@ -114,6 +114,7 @@ In healthcare field diagnose a problem early offer more chance for traitement an
 
 
 ___
+<html>
 <div style="background-color:red>
 <h3 style="color:blue;text-align:center;">My name is Kiese Diangebeni Reagan</h3>
 <h5>I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.</h5>
@@ -124,6 +125,9 @@ ___
 <a href="http://www.facebook.com/reagan.kiese.37"><img src=" https://i.imgur.com/oFsAcMx.png"></a>
 <a href="https://medium.com/@rkddatas"><img src="https://i.imgur.com/UA7Oh6z.png"></a>
  </div>
+                                                                                 </html>
+                                                                                 
+                                                                                 
 
 
 ----
