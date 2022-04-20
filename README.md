@@ -118,8 +118,7 @@ ___
 ### My name is Kiese Diangebeni Reagan, 
 #### I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.
 
-Let get in touch : 
-[www.kiese.tech](https://kiese.tech)
+##### Let get in touch : [www.kiese.tech](https://kiese.tech)
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
