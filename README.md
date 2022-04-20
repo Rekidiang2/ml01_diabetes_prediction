@@ -112,8 +112,9 @@ In healthcare field diagnose a problem early offer more chance for traitement an
 
 + put link for real world app after deployment in heroku
 
-## 6. About Me
+
 ___
+<div style="background-color:red>
 <h3 style="color:blue;text-align:center;">My name is Kiese Diangebeni Reagan</h3>
 <h5>I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.</h5>
 <h3>Let get in touch : <a href="https://kiese.tech">www.kiese.tech</a></h3>
@@ -122,31 +123,7 @@ ___
 <a href="https://twitter.com/ReaganKiese"><img src="https://i.imgur.com/YCdR3o9.png"></a>
 <a href="http://www.facebook.com/reagan.kiese.37"><img src=" https://i.imgur.com/oFsAcMx.png"></a>
 <a href="https://medium.com/@rkddatas"><img src="https://i.imgur.com/UA7Oh6z.png"></a>
+ </div>
 
 
 ----
-### My name is Kiese Diangebeni Reagan, 
-#### I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.
-
-##### Let get in touch : [www.kiese.tech](https://kiese.tech)
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-[![alt text][4.1]][4]
-[![alt text][5.1]][5]
-
-[1.1]: https://i.imgur.com/5BWvIrF.png (github icon with padding)
-[2.1]: https://github.com/Rekidiang2/Rekidiang2/blob/main/linkedin-logo-2430.png (linkedin icon with padding)
-[3.1]: https://i.imgur.com/YCdR3o9.png (twitter icon with padding)
-[4.1]: https://i.imgur.com/oFsAcMx.png (facebook icon with padding)
-[5.1]: https://i.imgur.com/UA7Oh6z.png (medium icon with padding)
-
-
-
-
-[1]: https://github.com/Rekidiang2
-[2]: https://www.linkedin.com/in/kiese-diangebeni-reagan-82992216a/
-[3]: https://twitter.com/ReaganKiese
-[4]: http://www.facebook.com/reagan.kiese.37
-[5]: https://medium.com/@rkddatas
-
