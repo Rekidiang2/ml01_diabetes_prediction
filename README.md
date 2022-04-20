@@ -115,12 +115,10 @@ In healthcare field diagnose a problem early offer more chance for traitement an
 ## 6. About Me
 ___
 
-### I'm a data scientist, software Engineer. data and technology passionate person, Artificial Intelligence enthusiast 
-
-> My Website [Click Here](https://kiese.tech)
-
-> Social Network
-
+### My name is Kiese Diangebeni Reagan, 
+#### I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.
+<a href="https://twitter.com/ReaganKiese">Twitter</a>
+[www.kiese.tech](https://kiese.tech)
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
