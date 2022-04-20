@@ -127,10 +127,12 @@ Let get in touch :
 [![alt text][5.1]][5]
 
 [1.1]: https://i.imgur.com/5BWvIrF.png (github icon with padding)
-[2.1]: https://i.imgur.com/rwYRqn6.png (linkedin icon with padding)
+[2.1]: https://i.imgur.com/0IdggSZ.png (linkedin icon with padding)
 [3.1]: https://i.imgur.com/YCdR3o9.png (twitter icon with padding)
 [4.1]: https://i.imgur.com/oFsAcMx.png (facebook icon with padding)
 [5.1]: https://i.imgur.com/UA7Oh6z.png (medium icon with padding)
+
+
 
 
 [1]: https://github.com/Rekidiang2
