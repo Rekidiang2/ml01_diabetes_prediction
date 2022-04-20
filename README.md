@@ -114,7 +114,7 @@ In healthcare field diagnose a problem early offer more chance for traitement an
 
 ## 6. About Me
 ___
-
+<h6 style="color:blue;text-align:center;">My name is Kiese Diangebeni Reagan</h6>
 ### My name is Kiese Diangebeni Reagan, 
 #### I'm **Data Science Analyst**, technology passionate person, Artificial Intelligence enthusiast and lifelong learner.
 
