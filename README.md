@@ -109,12 +109,11 @@ In healthcare field diagnose a problem early offer more chance for traitement an
 
 
 ___
-## My name is Kiese Diangebeni Reagan
-### Blockchain & Web Developer | Data Scientist
+**Kiese Diangebeni Reagan**
+
+**Blockchain & Web Developer | Data Scientist**
 
 I'm technology passionate person, Artificial Intelligence enthusiast and lifelong learner.
-
-Let get in touch : <a href="https://kiese.tech">www.kiese.tech</a>
 
 <a href="https://github.com/Rekidiang2"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/github-logo.png"></a>
 <a href="https://www.linkedin.com/in/kiese-diangebeni-reagan-82992216a/"><img src="https://github.com/Rekidiang2/Rekidiang2/blob/main/leslogos/linkedin-logo.png"></a>
