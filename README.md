@@ -109,9 +109,7 @@ In healthcare field diagnose a problem early offer more chance for traitement an
 
 
 ___
-**Kiese Diangebeni Reagan**
-
-**Blockchain & Web Developer | Data Scientist**
+**Kiese Diangebeni Reagan :** **Blockchain & Web Developer | Data Scientist**
 
 I'm technology passionate person, Artificial Intelligence enthusiast and lifelong learner.
 
